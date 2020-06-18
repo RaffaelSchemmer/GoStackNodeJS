@@ -35,4 +35,4 @@ This project uses MIT license. See the file [LICENSE](LICENSE) to more details.
 
 ---
 
-Made with 💜 by Raffael Schemmer :wave: [Visite meu CV Online!](https://raffael.dev)
+Made with 💜 by Raffael Schemmer :wave: [Visite meu CV Online!](https://www.raffael.dev)
